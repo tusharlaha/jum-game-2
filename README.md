@@ -1,1 +1,1 @@
-# jum-game-2
+# jump-game-2
